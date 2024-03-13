@@ -1,0 +1,17 @@
+1. Plot the average temperature by month
+
+From the graph, we can see that 8th month has highest temperature which is most warmest and 3rd month has the lowest temperature which is the most coldest on mars(Total there are 12 months)
+
+2. Identify the coldest and hottest months in Curiosity's location
+
+From the graph, we can see that 8th month has highest temperature which is most warmest and 3rd month has the lowest temperature which is the most coldest on mars(Total there are 12 months)
+
+Note: From above 2 graphs, we can see that 8th is the warmest month but still all months are very cold as compared to months on earth as the higesht temperature is more than -65 degree celsius.
+
+3. Average pressure by Martian month
+
+From the graph it is clearly seen that 6th month has lowest pressure and the 9th month has the highest pressure.
+
+4. How many terrestrial (earth) days are there in a Martian year
+
+From the graph, we can see that on Mars the year is approximate 1425-750 = 675 days which is 365 days on earth. As per internet searches also, Mars year is 687 Earth days and currently this is year 36 on Mars.
